@@ -14,6 +14,6 @@
 - [x] should be able to delete a transaction  ✅ 
 - [x] should be able to import transactions  ✅ 
  
- ![](https://recordit.co/QKJlr3Oqhw)
+ ![](https://recordit.co/QKJlr3Oqhw.gif)
 
 
